@@ -1,0 +1,60 @@
+/* Style for the form */
+form {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 500px;
+    box-shadow: 0px 0px 10px #ccc;
+    border-radius: 5px;
+  }
+  body {
+    background-color: rgb(255, 255, 255);
+    background-image: url("https://i.redd.it/itygra9nty361.png");
+}
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button[type="button"] {
+    background-color: #0d7486;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button[type="button"]:hover {
+    background-color: #000c00;
+  }
+  
+  /* Style for the output area */
+  #output {
+    margin: 20px auto;
+    max-width: 500px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 10px #ccc;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: #444;
+  }
+  
