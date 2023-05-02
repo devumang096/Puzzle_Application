@@ -4,7 +4,7 @@
 #
 
 # How to Play
-- Click on the Treasure Hunt Puzzle Application on this link.
+- Click on the Treasure Hunt Puzzle Application on this link [Live website](https://puzzle-application.netlify.app/)
 
 - Enter a new game or join an new one.
 
